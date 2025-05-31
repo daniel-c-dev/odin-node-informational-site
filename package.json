@@ -1,0 +1,23 @@
+{
+  "name": "odin-node-informational-site",
+  "version": "1.0.0",
+  "main": "informational_site.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-c-dev/odin-node-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-c-dev/odin-node-informational-site/issues"
+  },
+  "homepage": "https://github.com/daniel-c-dev/odin-node-informational-site#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
